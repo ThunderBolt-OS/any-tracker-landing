@@ -1,0 +1,13 @@
+inventory management    ,   space amangement ,      employee management   
+
+
+
+GIS ()
+report generation & analysis
+
+
+export recommendation           real time apis              3rd party apps integration
+role based management           
+
+
+The technology behind it
